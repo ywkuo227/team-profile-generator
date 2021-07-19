@@ -1,4 +1,4 @@
-# team-profile-generator 
+# Team Profile Generator
 
 ## Description
 This is a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
@@ -19,6 +19,11 @@ The application will prompt the users a series of questions (through command-lin
 
 ![Screenshot of the command-line interface.](assets/images/screenshot0.png)
 
+![Screenshot of the generated My Team HTML.](assets/images/screenshot1.png)
+
+## Links
+Walkthrough Video: [Team Profile Gen Walkthrough](https://drive.google.com/file/d/1HtJUNkENrlCEiOuU0nfYwRqzCdQ0YMNX/view?usp=sharing)
+Generated Sample HTML: [My Team](https://drive.google.com/file/d/1HtJUNkENrlCEiOuU0nfYwRqzCdQ0YMNX/view?usp=sharing)
 
 ## Contribute
 If you wish to contribute, please feel free to contact me by email.
