@@ -23,7 +23,8 @@ The application will prompt the users a series of questions (through command-lin
 
 ## Links
 Walkthrough Video: [Team Profile Gen Walkthrough](https://drive.google.com/file/d/1HtJUNkENrlCEiOuU0nfYwRqzCdQ0YMNX/view?usp=sharing)
-Generated Sample HTML: [My Team](https://drive.google.com/file/d/1HtJUNkENrlCEiOuU0nfYwRqzCdQ0YMNX/view?usp=sharing)
+
+Generated Sample HTML: [My Team](https://ywkuo227.github.io/team-profile-generator/sample-myteam.html)
 
 ## Contribute
 If you wish to contribute, please feel free to contact me by email.
